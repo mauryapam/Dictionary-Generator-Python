@@ -8,5 +8,6 @@ Generates a random word from file words.txt and prints its defination including 
 -import PyDictionary module for extracting defination of the words
 -Prints only those definations which exists in PyDictionary
 
+Note : words.txt contains integers , alphabets, nouns and abbrevations too. filter them otherwise it will generate error
 
 https://pypi.org/project/PyDictionary/
